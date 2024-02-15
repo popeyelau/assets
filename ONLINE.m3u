@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="YouTube",凤凰卫视资讯台
+https://cf.popeye.work/youtube?channel=Zm4i_rvAcxc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="YouTube",TVBS新闻台
+https://cf.popeye.work/youtube?channel=2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="YouTube",TVBS HD
+https://cf.popeye.work/youtube?channel=YvdcZ_jpLXE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV1.png" group-title="YouTube",民视新闻台
+https://cf.popeye.work/youtube?channel=ylYJSBUgaMA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="YouTube",三立新闻台
+https://cf.popeye.work/youtube?channel=FoBfXvlOR6I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="YouTube",三立新闻2台
+https://cf.popeye.work/youtube?channel=CKjSm5ZeehE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="YouTube",中天新闻台
+https://cf.popeye.work/youtube?channel=oIgbl7t0S_w
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="YouTube",中天新闻2台
+https://cf.popeye.work/youtube?channel=WPfPjbOLNfE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="YouTube",东森新闻台
+https://cf.popeye.work/youtube?channel=S5WOGu2HSes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png" group-title="YouTube",华视
+https://cf.popeye.work/youtube?channel=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png" group-title="YouTube",中视新闻台
+https://cf.popeye.work/youtube?channel=TCnaIE_SAtM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" group-title="YouTube",台视新闻台
+https://cf.popeye.work/youtube?channel=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png" group-title="YouTube",寰宇新闻
+https://cf.popeye.work/youtube?channel=vOue3tgccd0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hq720_live.jpg" group-title="YouTube",鏡新聞
+https://cf.popeye.work/youtube?channel=5n0y6b0Q25o
