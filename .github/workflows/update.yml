@@ -21,7 +21,7 @@ jobs:
         # 电视直播
         rm -f iptv.m3u && wget https://gist.githubusercontent.com/popeyelau/5452403b0f165d48766b186e4f2e2d9b/raw/list.m3u -O iptv.m3u
         # 节目源
-        rm -f epg.xml.gz https://epg.zsdc.eu.org/t.xml.gz -O epg.xml.gz
+        rm -f epg.xml.gz && wget https://epg.zsdc.eu.org/t.xml.gz -O epg.xml.gz
     - name: Commit
       run: |
         git config --local user.email "popeyelau@gmail.com"
